@@ -41,7 +41,12 @@ we loose a very valuable asset in our career, or a way of starting that career
 in the first place.
 
 Besides the points raised above, a developer submitting their code to a public
-code-share platform intentionally provides that code for others to build upon.
+code-share platform intentionally provides that code for others to build upon.  
+In addition to just submitting the code for public use, the developer (who is
+the copyright holder) has fine-grained control over how that code is licensed, 
+and under what conditions the code is to be used. To respect the right of the 
+copyright holders wish for others to build upon her/his work, means to allow
+the code to be shared freely. Without any form of automatic filtering.
 
 So I strongly ask you to vote against, remove or alter Article 13 of the EU 
 Copyright Directive.
